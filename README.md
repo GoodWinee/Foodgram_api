@@ -64,7 +64,7 @@
    ```bash
    docker compose -f docker-compose.production.yml exec backend python manage.py migrate
    docker compose -f docker-compose.production.yml exec backend python manage.py collectstatic --noinput
-6. **Заполните базу данных ингридиентами (опционально)**
+6. **Заполните базу данных ингредиентами (опционально)**
    ```bash
    docker compose -f docker-compose.production.yml exec backend python manage.py filldb
 7. **Откройте приложение в браузере:**

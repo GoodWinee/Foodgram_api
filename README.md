@@ -90,6 +90,3 @@
 - **Демо:** [https://ffoodgram.ddns.net](https://ffoodgram.ddns.net)
 - **API Docs** [https://ffoodgram.ddns.net/api/docs](https://ffoodgram.ddns.net/api/docs)
 
----
-
-**Счастливого кодинга! 🚀**
